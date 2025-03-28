@@ -1,0 +1,19 @@
+Array
+(
+    [university_name] => Dharmshinh desay university
+    [email] => vipulparmar1413@gmail.com
+    [contact_no] => 8754219865
+    [location] => nadiyad
+    [username] => ddu
+    [password] => ddu@123
+)
+Array
+(
+    [username] => sibmt
+    [password] => sibmt@123
+)
+Array
+(
+    [username] => sibmt
+    [password] => sibmt@123
+)

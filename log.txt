@@ -1,0 +1,10 @@
+Array
+(
+    [college_name] => G H Patel college of IT
+    [username] => GHP
+    [email] => grishupatel06@gmail.com
+    [contact_no] => 9985612454
+    [location] => anand
+    [password] => GHP123
+    [university_id] => 12
+)
